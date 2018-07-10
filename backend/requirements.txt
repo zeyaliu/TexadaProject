@@ -1,0 +1,9 @@
+django==2.0.3
+djangorestframework
+djangorestframework-jwt
+markdown
+django-filter
+psycopg2==2.7.4
+coreapi
+django-cors-middleware
+geoip2
